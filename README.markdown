@@ -1,9 +1,9 @@
 Traducción del libro "Scala by Example" al español
 ==================================================
 
-**Scala by Example** (_Scala a través de Ejemplos_), hace parte de la 
+**Scala by Example** (_Scala a través de Ejemplos_), forma parte de la 
 documentación oficial sobre el lenguaje de programación Scala. 
-Esta es la traducción al idioma español de este interesante libro.
+Ésta es la traducción al idioma español de este interesante libro.
 
 
 Acerca de Scala y el libro
@@ -14,19 +14,19 @@ trabaja sobre la Máquina Virtual de Java (**JVM**). Nació como parte del traba
 de _Martin Odersky_, profesor de la _École polytechnique fédérale de Lausanne_ 
 (EPFL) en Suiza.
 
-Se creó a raíz de la frustración que es programar en Java. Esto hizo que Scala
+Se creó a raíz de la frustración que puede ser el programar en Java. Esto hizo que Scala
 se diseñara con la facilidad de programación en mente, por lo que su sintaxis 
 es muy sencilla, también, al ser Orientado a Objetos, es muy sencillo para un 
-programador experto en Java hacer el salto hacia el lenguaje, 
-pero ya que también está orientado hacia la programación funcional, 
+programador experto en Java hacer el salto hacia el este lenguaje, 
+pero, ya que también está orientado hacia la programación funcional, 
 muchas veces usar dichas capacidades puede ser 
 "traumático" para el programador inexperto en este paradigma.
 
 Por eso, _Scala by Example_ es uno de los libros de referencia cuando se está
 aprendiendo este maravilloso lenguaje de programación, ya que lo introduce 
 a partir de ejemplos, de forma completa, y fiel al lenguaje (de forma pragmática), 
-con ejemplos muy conocidos, y con otros no tanto, pero que serán útiles 
-y hasta cruciales a la hora de enfrentar verdaderos retos a futuro.
+con ejemplos muy conocidos, y otros que no lo son tanto pero que serán útiles 
+y hasta cruciales a la hora de enfrentar verdaderos retos en el futuro.
 
 
 
@@ -43,10 +43,10 @@ No sufras más, y lee:
 FAQ:
 ----
 
-* **¿Dónde puedo descargar el PDF?**: El libro aun está en traducción, por lo 
+* **¿Dónde puedo descargar el PDF?**: El libro aun está siendo traduccido, por lo 
   que si quieres leerlo en PDF, deberás descargar el repositorio y hacerlo tú, 
   usando **Sphinx**, y el comando ``make latexpdf``. El PDF se generará 
-  dentro de carpeta llamada _build_, y luego dentro de _latex_.
+  dentro de una carpeta llamada _build_, y luego dentro de _latex_.
   En la sección de descargas de GitHub también hay un PDF, pero ten la certeza 
   de que estará desactualizado.
 
@@ -62,15 +62,15 @@ FAQ:
   ejemplos del libro.
    
    
-* **¿Cómo puedo colaborar?:** ¡¡Haz un folk de este repositorio!!, por favor,
-  cuando empieces o te detengas de traducir un capítulo, avísanos desde un 
+* **¿Cómo puedo colaborar?:** ¡¡Haz un fork de este repositorio!!, por favor,
+  cuando empieces o pares de traducir un capítulo, avísanos enviando un 
   issue, y haz una **solicitud de Pull** una vez lo tengas terminado (o si 
   definitivamente no lo vas a terminar, pero has adelantado algo).
 
 
 * **¿Qué necesito para editar el texto?:** Cualquier editor de texto está bien,
-  siempre y cuando tengas buena ortografía... en otro caso, es preferible 
-  uno con corrección ortográfica para asegurar la calidad del documento.
+  siempre y cuando tengas buena ortografía... en caso contrario, es preferible 
+  un editor con corrección ortográfica para asegurar la calidad del documento.
   También deberías conocer la sintaxis de _reStructuredText_: 
   http://docutils.sourceforge.net/docs/user/rst/quickref.html
   O también:
